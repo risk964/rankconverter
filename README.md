@@ -1,6 +1,6 @@
 # OW Rank Converter
 
-A terminal UI tool for converting Overwatch 2 ranks (April 2026 system) to the legacy rank system used before the Champion tier was introduced.
+A terminal UI tool for converting Overwatch ranks (April 2026 system) to the legacy OW2 rank system used before the Champion tier was introduced.
 
 ## Requirements
 
