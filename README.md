@@ -14,6 +14,10 @@ pip install textual
 python tui.py
 ```
 
+Run tui.py
+`python tui.py`
+
+
 **Keybinds**
 - `ctrl+r` — Reset all fields
 - `ctrl+q` — Quit
